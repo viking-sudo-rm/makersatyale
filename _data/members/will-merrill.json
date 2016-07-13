@@ -12,6 +12,12 @@
 		"time": "2016",
 		"detail": "I'm currently helping out with a YGM project for building a directory for extracurriculars at Yale.",
 		"tags": ["Node", "Angular"]
+	},
+	{
+		"title": "Lead Developer of the Book of Thoth",
+		"time": "Summer 2016",
+		"detail": "We're making an indie game where you use hieroglyphic spells to solve puzzles and kick ass. Hit me up if you're interested in collaborating!",
+		"tags": ["Java", "Linguistics", "Game Design"]
 	}],
 	"extracurriculars": [{
 		"title": "Yale DotA 2",
